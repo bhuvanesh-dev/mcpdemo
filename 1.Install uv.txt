@@ -1,0 +1,8 @@
+open powershell and do the below cmd
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+reopen the powershell or cmd and type uv to see if it is installed.
+
+to initate the new python project 
+create a folder for project and in command type 
+uv init <project-name>

@@ -1,0 +1,13 @@
+we need to install below
+
+uv add langchain-groq
+
+if we need openai we can do like below
+
+uv add langchain-openai
+
+now mcp-use by below cmd
+
+uv pip install mcp-use
+
+installed libraries can be seen in pyproject.toml

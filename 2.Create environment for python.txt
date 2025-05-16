@@ -1,0 +1,11 @@
+navigate to the project directory in cmd
+now create environment by below cmd
+
+uv venv
+
+this will create an folder .venv in the project directory.
+now activate by below cmd
+
+.venv\Scripts\activate
+
+now virtual environment is ready.
